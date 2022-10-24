@@ -116,5 +116,9 @@ html, body {
 .wrapper .youtube:hover span,
 .wrapper .youtube:hover .tooltip,
 .wrapper .youtube:hover .tooltip:before {
-    background: #de463b;
+    background: #183153;
+}
+
+.links:visited {
+    color: black;
 }
