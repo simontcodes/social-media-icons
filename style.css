@@ -122,3 +122,7 @@ html, body {
 .links:visited {
     color: black;
 }
+
+.links:link {
+    color: black;
+}
